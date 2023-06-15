@@ -1,2 +1,2 @@
-# Health-data
+# Health Data
 Electronic Health Record
